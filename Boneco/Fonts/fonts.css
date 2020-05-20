@@ -1,0 +1,43 @@
+@font-face{
+			font-family: ProximaNova;
+			font-weight: 400;
+			font-style: normal;
+			src: url(ProximaNova-Regular/ProximaNova-Regular.eot);	
+			src: url(ProximaNova-Regular/ProximaNova-Regular.eot?iefix) format('eot'),	
+				 url(ProximaNova-Regular/ProximaNova-Regular.svg) format('svg'),	
+				 url(ProximaNova-Regular/ProximaNova-Regular.ttf) format('truetype'),	
+				 url(ProximaNova-Regular/ProximaNova-Regular.woff) format('woff');	
+}
+
+@font-face{
+			font-family: ProximaNova;
+			font-weight: 500;
+			font-style: normal;
+			src: url(ProximaNova-Semibold/ProximaNova-Semibold.eot);	
+			src: url(ProximaNova-Semibold/ProximaNova-Semibold.eot?iefix) format('eot'),	
+				 url(ProximaNova-Semibold/ProximaNova-Semibold.svg) format('svg'),	
+				 url(ProximaNova-Semibold/ProximaNova-Semibold.ttf) format('truetype'),	
+				 url(ProximaNova-Semibold/ProximaNova-Semibold.woff) format('woff');	
+}
+
+@font-face{
+			font-family: ProximaNova;
+			font-weight: 700;
+			font-style: normal;
+			src: url(ProximaNova-Bold/ProximaNova-Bold.eot);	
+			src: url(ProximaNova-Bold/ProximaNova-Bold.eot?iefix) format('eot'),	
+				 url(ProximaNova-Bold/ProximaNova-Bold.svg) format('svg'),	
+				 url(ProximaNova-Bold/ProximaNova-Bold.ttf) format('truetype'),	
+				 url(ProximaNova-Bold/ProximaNova-Bold.woff) format('woff');	
+}
+
+@font-face{
+			font-family: ProximaNova;
+			font-weight: 900;
+			font-style: normal;
+			src: url(ProximaNova-Black/ProximaNova-Black.eot);	
+			src: url(ProximaNova-Black/ProximaNova-Black.eot?iefix) format('eot'),	
+				 url(ProximaNova-Black/ProximaNova-Black.svg) format('svg'),	
+				 url(ProximaNova-Black/ProximaNova-Black.ttf) format('truetype'),	
+				 url(ProximaNova-Black/ProximaNova-Black.woff) format('woff');	
+}
